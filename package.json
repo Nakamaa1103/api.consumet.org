@@ -9,8 +9,8 @@
         "lint": "prettier --write \"src/**/*.ts\""
     },
     "engines": {
-  "node": ">=20.0.0",
-  "yarn": ">=1.17.3"
+  "node": ">=20.18.1",
+  "npm": ">=6.9.0"
     },
     "repository": {
         "type": "git",
